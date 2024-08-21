@@ -1,0 +1,17 @@
+New Features
+
+- Added Backup Library
+- Added Flag Analyzer (Beta)
+- Added Crash Reports
+- Added background update download feature
+- Added New Import Options
+- Added language support for German, Greek, French, Hungarian, Hindi, Spanish and Portuguese
+
+Improvments / Bug Fixes
+
+- OTA system completely rewrited.
+- Import / Export backups functions completely rewrited.
+- A lot of base methods (in calonz.instafel) rewrited for stability.
+- IFL and IG About menu merged
+- Added OverrideManager for optimized flag operations
+
