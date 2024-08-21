@@ -1,9 +1,1 @@
-{
-  "manifest_version": 1,
-  "log_files": [
-    {
-      "ver": 197,
-      "log_file": "clogs/clog_197.txt"
-    }
-  ]
-}
+{ "llog_ver": 197 }
