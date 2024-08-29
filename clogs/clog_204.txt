@@ -15,3 +15,4 @@ Improvments / Bug Fixes
 - IFL and IG About menu merged
 - Added OverrideManager for optimized flag operations
 
+With this release, most of the methods that have been used since the first version of instafel have changed (you could even say that I rebuilt the application from scratch). So don't forget to report any problems in the Telegram group.
