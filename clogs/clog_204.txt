@@ -5,9 +5,10 @@ New Features
 - Added Crash Reports
 - Added background update download feature
 - Added New Import Options
+- Added amoled theme for Instafel
 - Added language support for German, Greek, French, Hungarian, Hindi, Spanish and Portuguese
 
-Improvments / Bug Fixes
+Improvements
 
 - OTA system completely rewrited.
 - Import / Export backups functions completely rewrited.
@@ -15,4 +16,4 @@ Improvments / Bug Fixes
 - IFL and IG About menu merged
 - Added OverrideManager for optimized flag operations
 
-With this release, most of the methods that have been used since the first version of instafel have changed (you could even say that I rebuilt the application from scratch). So don't forget to report any problems in the Telegram group.
+With this release, most of the methods that have been used since the first version of instafel have changed (you could even say that i rebuilt the application from scratch). So don't forget to report any problems in the Telegram group.
